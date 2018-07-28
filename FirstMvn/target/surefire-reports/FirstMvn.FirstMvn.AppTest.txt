@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: FirstMvn.FirstMvn.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.953 sec <<< FAILURE!
+appTest(FirstMvn.FirstMvn.AppTest)  Time elapsed: 0.031 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at FirstMvn.FirstMvn.AppTest.appTest(AppTest.java:16)
+
