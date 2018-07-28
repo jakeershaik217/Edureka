@@ -1,2 +1,2 @@
 # Edureka
-Practice
+Practice tutorial
