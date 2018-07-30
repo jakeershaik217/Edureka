@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="FirstMvn.FirstMvn.AppTest" duration-ms="29" started-at="2018-07-30T17:04:26Z" finished-at="2018-07-30T17:04:26Z">
+  <suite name="FirstMvn.FirstMvn.AppTest" duration-ms="31" started-at="2018-07-30T17:05:31Z" finished-at="2018-07-30T17:05:31Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="29" started-at="2018-07-30T17:04:26Z" finished-at="2018-07-30T17:04:26Z">
+    <test name="Command line test" duration-ms="31" started-at="2018-07-30T17:05:31Z" finished-at="2018-07-30T17:05:31Z">
       <class name="FirstMvn.FirstMvn.AppTest">
-        <test-method status="PASS" signature="appTest()[pri:0, instance:FirstMvn.FirstMvn.AppTest@c818063]" name="appTest" duration-ms="11" started-at="2018-07-30T22:34:26Z" finished-at="2018-07-30T22:34:26Z">
+        <test-method status="PASS" signature="appTest()[pri:0, instance:FirstMvn.FirstMvn.AppTest@c818063]" name="appTest" duration-ms="11" started-at="2018-07-30T22:35:31Z" finished-at="2018-07-30T22:35:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- appTest -->
